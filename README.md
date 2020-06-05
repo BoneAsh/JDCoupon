@@ -11,4 +11,5 @@
 Python3.x
 
 pip install requests pillow matplotlib
+
 python JDCoupon.py
